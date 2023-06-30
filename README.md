@@ -7,4 +7,4 @@ https://github.com/Rayeesmirvays404/PAlD.git
 
 cd PAlD
 
-python2
+python2 afghach_enc.py
